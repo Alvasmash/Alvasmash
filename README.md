@@ -165,9 +165,14 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <img src="./assets/languages.svg" width="90%">
 
+<br><br>
+
+
 </div>
 
+
 ---
+
 
 <div align="center">
 
