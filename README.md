@@ -4,7 +4,7 @@
 
 <br><br>
 
-#  ALVARO
+# ALVARO
 
 ### `Desarrollador Cloud Native`
 
@@ -12,10 +12,10 @@
 
 <br>
 
-☁️ AWS & Cloud Computing   •  
-☕ Java   •  
-🌱 Spring Boot   •  
-🐳 Docker   •  
+☁️ AWS & Cloud Computing &nbsp; • &nbsp;
+☕ Java &nbsp; • &nbsp;
+🌱 Spring Boot &nbsp; • &nbsp;
+🐳 Docker &nbsp; • &nbsp;
 📱 Kotlin
 
 </div>
@@ -33,34 +33,40 @@
 
 <td width="58%" valign="top">
 
-##  Sobre mí
+## Sobre mí
 
 Soy un desarrollador interesado en las **tecnologías Cloud Native, el desarrollo backend y la arquitectura de software**.
 
-Me gusta aprender construyendo. Desde APIs y microservicios hasta infraestructura en la nube, me gusta lo que es aprender en la practica y que las cosas resulten
+Me gusta aprender construyendo. Desde APIs y microservicios hasta infraestructura en la nube, me gusta aprender en la práctica y lograr que las cosas funcionen.
 
-normalmente aprendo solo pero me gusta rodearme de gente que sepa de codigo
+Normalmente aprendo por mi cuenta, pero también me gusta rodearme de gente que sepa de código y pueda aportar nuevas ideas.
 
 <br>
 
 ### 🔻 Actualmente enfocado en
 
 ☁️ **AWS & Cloud Computing**
+
 Fortaleciendo mis conocimientos sobre infraestructura y servicios en la nube.
 
 ☕ **Java & Spring Boot**
+
 Desarrollando aplicaciones backend y APIs REST.
 
 🚀 **Microservicios & APIs**
+
 Explorando aplicaciones distribuidas y arquitecturas Cloud Native.
 
 🐳 **Docker & CI/CD**
+
 Aprendiendo a contenerizar, automatizar y desplegar aplicaciones.
 
 📱 **Kotlin & Android**
+
 Desarrollando aplicaciones modernas utilizando Kotlin y Jetpack Compose.
 
 🗄️ **MySQL & Backend**
+
 Trabajando con bases de datos y gestión de información en aplicaciones backend.
 
 <br>
@@ -78,7 +84,7 @@ Trabajando con bases de datos y gestión de información en aplicaciones backend
 
 <div align="center">
 
-##  Tecnologías
+## Tecnologías
 
 <br>
 
@@ -92,7 +98,7 @@ Trabajando con bases de datos y gestión de información en aplicaciones backend
 
 <div align="center">
 
-##  Lo que estoy construyendo
+## Lo que estoy construyendo
 
 ### Convirtiendo ideas en código.
 
@@ -144,7 +150,6 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <br><br>
 
-
 <img
   width="49%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvasmash&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9">
@@ -165,12 +170,13 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <img src="./assets/languages.svg" width="90%">
 
-<br><br>
-
-
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
@@ -178,9 +184,9 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <br><br>
 
-###  Seguir intentandolo es seguir evolucionando
+### Seguir intentándolo es seguir evolucionando
 
-`CODE`   `CLOUD`   `CREATE`
+`CODE` &nbsp; `CLOUD` &nbsp; `CREATE`
 
 <br><br>
 
