@@ -150,18 +150,11 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <br><br>
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Alvasmash&theme=darkhub&no-frame=true&no-bg=true&margin-w=5"
-  width="90%">
-
-<br><br>
-
 <img src="./assets/languages.svg" width="90%">
 
 <br><br>
 
 ---
-
 
 ## Poco mas :b
 
