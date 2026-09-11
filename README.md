@@ -1,10 +1,22 @@
 <div align="center">
 
-#  ALVARO 
+<img src="./assets/choso-banner.png" width="100%">
 
-### `Cloud Native Developer`
+<br><br>
 
-☁️ AWS & Cloud Computing · ☕ Java · 🌱 Spring Boot · 🐳 Docker · Kotlin
+# 🩸 ALVARO
+
+### `Desarrollador Cloud Native`
+
+**Nube, código y todo lo que hay entre ambos.**
+
+<br>
+
+☁️ AWS & Cloud Computing   •  
+☕ Java   •  
+🌱 Spring Boot   •  
+🐳 Docker   •  
+📱 Kotlin
 
 </div>
 
@@ -13,30 +25,47 @@
 <table>
 <tr>
 
-<td width="45%" align="center">
+<td width="42%" align="center">
 
 <img src="./assets/choso2.png" width="100%">
 
 </td>
 
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-## 🩸 About Me
+## 🩸 Sobre mí
 
-I'm a developer focused on **Cloud Native technologies**, backend development and building applications that are more than just code.
+Soy un desarrollador interesado en las **tecnologías Cloud Native, el desarrollo backend y la arquitectura de software**.
 
-I enjoy learning by creating projects, experimenting with new technologies and turning ideas into working solutions.
+Me gusta aprender construyendo. Desde APIs y microservicios hasta infraestructura en la nube, disfruto entendiendo cómo funcionan las cosas detrás de escena y convirtiendo ideas en aplicaciones reales.
 
-### 🔻 Currently focused on
+Constantemente estoy experimentando, mejorando mis habilidades y buscando nuevos proyectos en los que poner a prueba lo que aprendo.
 
-* ☁️ **AWS & Cloud Computing**
-* ☕ **Java & Spring Boot**
-* 🚀 **Microservices & APIs**
-* 🐳 **Docker & CI/CD**
-* 📱 **Kotlin & Android**
-* 🗄️ **MySQL & backend development**
+<br>
 
-> *"The blood remembers."* 🩸
+### 🔻 Actualmente enfocado en
+
+☁️ **AWS & Cloud Computing**
+Fortaleciendo mis conocimientos sobre infraestructura y servicios en la nube.
+
+☕ **Java & Spring Boot**
+Desarrollando aplicaciones backend y APIs REST.
+
+🚀 **Microservicios & APIs**
+Explorando aplicaciones distribuidas y arquitecturas Cloud Native.
+
+🐳 **Docker & CI/CD**
+Aprendiendo a contenerizar, automatizar y desplegar aplicaciones.
+
+📱 **Kotlin & Android**
+Desarrollando aplicaciones modernas utilizando Kotlin y Jetpack Compose.
+
+🗄️ **MySQL & Backend**
+Trabajando con bases de datos y gestión de información en aplicaciones backend.
+
+<br>
+
+> *"La sangre recuerda."* 🩸
 
 </td>
 
@@ -49,62 +78,86 @@ I enjoy learning by creating projects, experimenting with new technologies and t
 
 <div align="center">
 
-## 🩸 Tech Stack
+## 🩸 Tecnologías
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,docker,git,github,mysql,html,css,js,vscode">
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,docker,git,github,mysql,html,css,js,vscode&perline=6">
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## 🩸 What I'm Building
+## 🩸 Lo que estoy construyendo
+
+### Convirtiendo ideas en código.
 
 </div>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ Cloud Native
 
-Exploring **Cloud Native development**, APIs, microservices, Spring Boot and AWS.
+Explorando el desarrollo **Cloud Native** mediante APIs, microservicios, Spring Boot, Docker y AWS.
+
+Me interesa especialmente comprender cómo las aplicaciones se comunican, escalan y trabajan juntas dentro de entornos distribuidos.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Projects
+### 🚀 Proyectos
 
-Building academic and personal projects to improve my skills and turn ideas into real applications.
+Gran parte de mi aprendizaje ocurre **construyendo**.
+
+Trabajo en proyectos académicos y personales donde puedo experimentar con nuevas tecnologías, resolver problemas y convertir conceptos en aplicaciones funcionales.
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
 ---
 
 <div align="center">
 
-## 🩸 GitHub Stats
+## 🩸 Estadísticas de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alvasmash&show_icons=true&theme=dark&hide_border=true">
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alvasmash&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=E63946&text_color=C9D1D9">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvasmash&theme=dark&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvasmash&theme=dark&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=FFFFFF">
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-<img src="./assets/choso-footer.png" width="70%">
+<img src="./assets/choso.gif" width="280">
 
-### 🩸 Keep building. Keep learning. 🩸
+<br><br>
+
+### 🩸 Sigue construyendo. Sigue aprendiendo. Sigue evolucionando.
+
+`CÓDIGO`   `NUBE`   `CREAR`
+
+<br><br>
+
+<img src="./assets/choso-footer.png" width="100%">
 
 </div>
