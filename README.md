@@ -137,25 +137,13 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 <img src="./assets/chosoyuji.png" width="85%">
 
 <br><br>
-
 <div align="center">
 
-### 🩸 Lenguajes y tecnologías
-
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,spring,docker,aws,mysql,git,github&perline=6">
+<img src="./assets/languages.svg" width="90%">
 
 </div>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvasmash&theme=dark&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=FFFFFF">
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
