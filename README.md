@@ -130,20 +130,43 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <div align="center">
 
-##  Estadísticas de GitHub
+## 🩸 Estadísticas de GitHub
 
 <br>
 
 <img src="./assets/chosoyuji.png" width="85%">
 
 <br><br>
-<div align="center">
 
-<br>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Alvasmash&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=E63946&text_color=C9D1D9">
+
+<br><br>
+
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvasmash&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9">
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=Alvasmash&theme=dark&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888"
+  width="70%">
+
+<br><br>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Alvasmash&theme=darkhub&no-frame=true&no-bg=true&margin-w=5"
+  width="90%">
+
+<br><br>
 
 <img src="./assets/languages.svg" width="90%">
 
 </div>
+
 ---
 
 <div align="center">
