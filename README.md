@@ -38,9 +38,6 @@
 Soy un desarrollador interesado en las **tecnologías Cloud Native, el desarrollo backend y la arquitectura de software**.
 
 Me gusta aprender construyendo. Desde APIs y microservicios hasta infraestructura en la nube, me gusta aprender en la práctica y lograr que las cosas funcionen.
-
-Normalmente aprendo por mi cuenta, pero también me gusta rodearme de gente que sepa de código y pueda aportar nuevas ideas.
-
 <br>
 
 ### 🔻 Actualmente enfocado en
@@ -162,7 +159,7 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <div align="center">
 
-<img src="./assets/choso.gif" width="380">
+<img src="./assets/choso.gif" width="400">
 
 <br><br>
 
