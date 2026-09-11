@@ -4,7 +4,7 @@
 
 <br><br>
 
-# 🩸 ALVARO
+#  ALVARO
 
 ### `Desarrollador Cloud Native`
 
@@ -33,13 +33,13 @@
 
 <td width="58%" valign="top">
 
-## 🩸 Sobre mí
+##  Sobre mí
 
 Soy un desarrollador interesado en las **tecnologías Cloud Native, el desarrollo backend y la arquitectura de software**.
 
-Me gusta aprender construyendo. Desde APIs y microservicios hasta infraestructura en la nube, disfruto entendiendo cómo funcionan las cosas detrás de escena y convirtiendo ideas en aplicaciones reales.
+Me gusta aprender construyendo. Desde APIs y microservicios hasta infraestructura en la nube, me gusta lo que es aprender en la practica y que las cosas resulten
 
-Constantemente estoy experimentando, mejorando mis habilidades y buscando nuevos proyectos en los que poner a prueba lo que aprendo.
+normalmente aprendo solo pero me gusta rodearme de gente que sepa de codigo
 
 <br>
 
@@ -65,7 +65,7 @@ Trabajando con bases de datos y gestión de información en aplicaciones backend
 
 <br>
 
-> *"La sangre recuerda."* 🩸
+> *"The blood remembers."* 🩸
 
 </td>
 
@@ -78,7 +78,7 @@ Trabajando con bases de datos y gestión de información en aplicaciones backend
 
 <div align="center">
 
-## 🩸 Tecnologías
+##  Tecnologías
 
 <br>
 
@@ -92,7 +92,7 @@ Trabajando con bases de datos y gestión de información en aplicaciones backend
 
 <div align="center">
 
-## 🩸 Lo que estoy construyendo
+##  Lo que estoy construyendo
 
 ### Convirtiendo ideas en código.
 
@@ -134,7 +134,7 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alvasmash&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=E63946&text_color=C9D1D9">
+<img src="./assets/choso.png" width="300">
 
 <br><br>
 
@@ -148,13 +148,13 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <div align="center">
 
-<img src="./assets/choso.gif" width="280">
+<img src="./assets/choso.gif" width="380">
 
 <br><br>
 
-### 🩸 Sigue construyendo. Sigue aprendiendo. Sigue evolucionando.
+###  Seguir intentandolo es seguir evolucionando
 
-`CÓDIGO`   `NUBE`   `CREAR`
+`CODE`   `CLOUD`   `CREATE`
 
 <br><br>
 
