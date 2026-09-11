@@ -170,6 +170,9 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 ---
 
+
+## Poco mas :b
+
 <br>
 
 <div align="center">
