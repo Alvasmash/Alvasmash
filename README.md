@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/choso-banner.png" width="100%">
+<img src="./assets/choso-banner.png" width="85%">
 
 <br><br>
 
@@ -130,7 +130,7 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <div align="center">
 
-## 🩸 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <br>
 
