@@ -134,7 +134,11 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <br>
 
-<img src="./assets/choso.png" width="300">
+<img src="./assets/chosoyuji.png" width="85%">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvasmash&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9">
 
 <br><br>
 
