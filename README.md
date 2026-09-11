@@ -138,7 +138,15 @@ Trabajo en proyectos académicos y personales donde puedo experimentar con nueva
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvasmash&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="49%">
+<div align="center">
+
+### 🩸 Lenguajes y tecnologías
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,spring,docker,aws,mysql,git,github&perline=6">
+
+</div>
 
 <br><br>
 
