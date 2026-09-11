@@ -1,0 +1,225 @@
+<svg width="900" height="674"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="100%" height="100%" rx="18"
+fill="#0D1117"/>
+
+<text x="45" y="55"
+font-family="Arial, sans-serif"
+font-size="28"
+font-weight="bold"
+fill="#FFFFFF">
+🩸 Lenguajes utilizados
+</text>
+
+<text x="45" y="82"
+font-family="Arial, sans-serif"
+font-size="14"
+fill="#8B949E">
+Distribución real del código en mis repositorios
+</text>
+
+<text x="45" y="125"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#FFFFFF">
+Kotlin
+</text>
+
+<text x="650" y="125"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#E63946">
+29.54%
+</text>
+
+<rect x="45" y="137"
+width="560"
+height="13"
+rx="6"
+fill="#21262D"/>
+
+<rect x="45" y="137"
+width="165.4094596051775"
+height="13"
+rx="6"
+fill="#E63946"/>
+
+
+<text x="45" y="197"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#FFFFFF">
+Java
+</text>
+
+<text x="650" y="197"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#E63946">
+23.18%
+</text>
+
+<rect x="45" y="209"
+width="560"
+height="13"
+rx="6"
+fill="#21262D"/>
+
+<rect x="45" y="209"
+width="129.79316349229805"
+height="13"
+rx="6"
+fill="#E63946"/>
+
+
+<text x="45" y="269"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#FFFFFF">
+HTML
+</text>
+
+<text x="650" y="269"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#E63946">
+17.48%
+</text>
+
+<rect x="45" y="281"
+width="560"
+height="13"
+rx="6"
+fill="#21262D"/>
+
+<rect x="45" y="281"
+width="97.89617038951081"
+height="13"
+rx="6"
+fill="#E63946"/>
+
+
+<text x="45" y="341"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#FFFFFF">
+Python
+</text>
+
+<text x="650" y="341"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#E63946">
+12.23%
+</text>
+
+<rect x="45" y="353"
+width="560"
+height="13"
+rx="6"
+fill="#21262D"/>
+
+<rect x="45" y="353"
+width="68.5040596507063"
+height="13"
+rx="6"
+fill="#E63946"/>
+
+
+<text x="45" y="413"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#FFFFFF">
+JavaScript
+</text>
+
+<text x="650" y="413"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#E63946">
+11.78%
+</text>
+
+<rect x="45" y="425"
+width="560"
+height="13"
+rx="6"
+fill="#21262D"/>
+
+<rect x="45" y="425"
+width="65.98575827405936"
+height="13"
+rx="6"
+fill="#E63946"/>
+
+
+<text x="45" y="485"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#FFFFFF">
+CSS
+</text>
+
+<text x="650" y="485"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#E63946">
+4.73%
+</text>
+
+<rect x="45" y="497"
+width="560"
+height="13"
+rx="6"
+fill="#21262D"/>
+
+<rect x="45" y="497"
+width="26.46676597801039"
+height="13"
+rx="6"
+fill="#E63946"/>
+
+
+<text x="45" y="557"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#FFFFFF">
+Dockerfile
+</text>
+
+<text x="650" y="557"
+font-family="Arial, sans-serif"
+font-size="16"
+font-weight="bold"
+fill="#E63946">
+1.06%
+</text>
+
+<rect x="45" y="569"
+width="560"
+height="13"
+rx="6"
+fill="#21262D"/>
+
+<rect x="45" y="569"
+width="5.944622610237589"
+height="13"
+rx="6"
+fill="#E63946"/>
+
+
+</svg>
