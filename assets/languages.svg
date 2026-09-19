@@ -32,7 +32,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-42.68%
+28.04%
 </text>
 
 <rect x="45" y="137"
@@ -42,7 +42,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="137"
-width="239.03510331587583"
+width="157.00092834039935"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -53,7 +53,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-Kotlin
+HTML
 </text>
 
 <text x="650" y="197"
@@ -61,7 +61,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-16.65%
+23.02%
 </text>
 
 <rect x="45" y="209"
@@ -71,7 +71,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="209"
-width="93.21506942115653"
+width="128.9386763166764"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -82,7 +82,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-Java
+JavaScript
 </text>
 
 <text x="650" y="269"
@@ -90,7 +90,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-13.06%
+17.26%
 </text>
 
 <rect x="45" y="281"
@@ -100,7 +100,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="281"
-width="73.14381398866125"
+width="96.67358487219057"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -111,7 +111,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-HTML
+Kotlin
 </text>
 
 <text x="650" y="341"
@@ -119,7 +119,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-10.10%
+10.93%
 </text>
 
 <rect x="45" y="353"
@@ -129,7 +129,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="353"
-width="56.53351098427474"
+width="61.224699767619256"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -140,7 +140,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-Python
+Java
 </text>
 
 <text x="650" y="413"
@@ -148,7 +148,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-6.89%
+8.58%
 </text>
 
 <rect x="45" y="425"
@@ -158,7 +158,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="425"
-width="38.60486994645714"
+width="48.04167479703641"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -169,7 +169,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-JavaScript
+CSS
 </text>
 
 <text x="650" y="485"
@@ -177,7 +177,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-6.64%
+7.24%
 </text>
 
 <rect x="45" y="497"
@@ -187,7 +187,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="497"
-width="37.18570300033535"
+width="40.563981575103924"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -198,7 +198,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-CSS
+Python
 </text>
 
 <text x="650" y="557"
@@ -206,7 +206,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-3.38%
+4.53%
 </text>
 
 <rect x="45" y="569"
@@ -216,7 +216,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="569"
-width="18.9318887190902"
+width="25.356110194596702"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -235,7 +235,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-0.60%
+0.39%
 </text>
 
 <rect x="45" y="641"
