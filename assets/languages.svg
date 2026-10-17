@@ -32,7 +32,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-35.16%
+29.88%
 </text>
 
 <rect x="45" y="137"
@@ -42,7 +42,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="137"
-width="196.88997107013242"
+width="167.34551673898582"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -53,7 +53,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-Java
+JavaScript
 </text>
 
 <text x="650" y="197"
@@ -61,7 +61,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-21.42%
+24.75%
 </text>
 
 <rect x="45" y="209"
@@ -71,7 +71,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="209"
-width="119.97087926620115"
+width="138.57966014493704"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -82,7 +82,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-HTML
+Java
 </text>
 
 <text x="650" y="269"
@@ -90,7 +90,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-16.00%
+18.21%
 </text>
 
 <rect x="45" y="281"
@@ -100,7 +100,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="281"
-width="89.61907644374399"
+width="101.9685699343295"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -111,7 +111,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#FFFFFF">
-JavaScript
+HTML
 </text>
 
 <text x="650" y="341"
@@ -119,7 +119,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-11.64%
+13.60%
 </text>
 
 <rect x="45" y="353"
@@ -129,7 +129,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="353"
-width="65.1754742344219"
+width="76.1850701394291"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -148,7 +148,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-6.72%
+5.71%
 </text>
 
 <rect x="45" y="425"
@@ -158,7 +158,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="425"
-width="37.64340189066637"
+width="31.99479641836611"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -177,7 +177,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-6.03%
+5.27%
 </text>
 
 <rect x="45" y="497"
@@ -187,7 +187,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="497"
-width="33.75838334483075"
+width="29.525937954087045"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -206,7 +206,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-2.78%
+2.37%
 </text>
 
 <rect x="45" y="569"
@@ -216,7 +216,7 @@ rx="6"
 fill="#21262D"/>
 
 <rect x="45" y="569"
-width="15.589953892171485"
+width="13.25059308934077"
 height="13"
 rx="6"
 fill="#E63946"/>
@@ -235,7 +235,7 @@ font-family="Arial, sans-serif"
 font-size="16"
 font-weight="bold"
 fill="#E63946">
-0.24%
+0.21%
 </text>
 
 <rect x="45" y="641"
